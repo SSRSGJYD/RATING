@@ -1,4 +1,6 @@
-# RATING: Medical-knowledge-guided rheumatoid arthritis assessment from multimodal ultrasound images via deep learning
+# RATING
+
+[![DOI](https://zenodo.org/badge/526008863.svg)](https://zenodo.org/badge/latestdoi/526008863) 
 
 ## Introduction
 
